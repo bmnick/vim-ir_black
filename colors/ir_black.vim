@@ -73,7 +73,7 @@ hi Cursor           guifg=black       guibg=white       gui=NONE      ctermfg=bl
 hi LineNr           guifg=#888888     guibg=#E3E3E3     gui=NONE      ctermfg=darkgray    ctermbg=NONE        cterm=NONE
 
 hi VertSplit        guifg=#202020     guibg=#202020     gui=NONE      ctermfg=darkgray    ctermbg=darkgray    cterm=NONE
-hi StatusLine       guifg=#575757     guibg=#F3F3F3     gui=italic    ctermfg=white       ctermbg=darkgray    cterm=NONE
+hi StatusLine       guifg=#575757     guibg=#F3F3F3     gui=NONE      ctermfg=white       ctermbg=darkgray    cterm=NONE
 hi StatusLineNC     guifg=black       guibg=#F3F3F3     gui=NONE      ctermfg=blue        ctermbg=darkgray    cterm=NONE  
 
 hi Folded           guifg=#a0a8b0     guibg=#384048     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
